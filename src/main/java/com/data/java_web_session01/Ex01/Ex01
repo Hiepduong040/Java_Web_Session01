@@ -1,0 +1,12 @@
+Thành phần chính:
+
+Client: Trình duyệt gửi yêu cầu và hiển thị giao diện.
+
+Web Server (Tomcat): Nhận yêu cầu HTTP, chuyển đến servlet, trả phản hồi.
+
+Application Server: Xử lý logic nghiệp vụ bằng Servlet/JSP.
+
+Database: Lưu trữ và truy xuất dữ liệu.
+
+Quy trình hoạt động:
+Client gửi request → Web Server tiếp nhận → Servlet xử lý logic → Truy vấn Database → Trả dữ liệu về → Web Server gửi response về Client.
