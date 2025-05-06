@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hiepd
-  Date: 06/05/2025
-  Time: 10:55 SA
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page import="com.example.session01.Bai8.model.Task" %>
 <%@ page import="java.util.List" %>
 <%@ page import="com.example.session01.Bai8.service.TaskService" %>
